@@ -9,4 +9,4 @@ Simply select the plugin, and click and drag on the skybox. The sun will move to
 
 1. Open Roblox Studio.
 2. Go to `Tools > Open Plugins Folder` to find location of the plugins folder.
-3. Extract the archive to this location.
+3. Move the ControlSun folder to this location.
